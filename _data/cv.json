@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Javier Fornes Graell",
+    "email": "javier.fornes@ug.uchile.cl",
+    "phone": "+56971080627",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently looking for a job or MSc/PhD opportunities. Actively curious and productive.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Santiago",
+      "countryCode": "Chile",
       "region": ""
     },
     "profiles": [
@@ -25,37 +25,33 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Herofotime",
+        "url": "https://github.com/Herofotime"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Javier Fornes Graell",
+        "url": "https://linkedin.com/javier-fornes-graell"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "FCFM, Universidad de Chile",
+      "area": "Professional degree as Geologist",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "FCFM, Universidad de Chile",
+      "area": "B.S. in Geological Sciences",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }

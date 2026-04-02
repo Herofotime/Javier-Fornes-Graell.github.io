@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Professional degree, Geologist, FCFM, Universidad de Chile, 2025.
+* B.S. in Geological Sciences, FCFM, Universidad de Chile, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec. 2022 up to Sept. 2025: Geologist (Multiple roles)
+  * Viña Concha y Toro S.A.
+  * Duties includes: Database generation, field studies and report making.
+  * Supervisor: Sebastian Vargas Soto & Brian Townley
 
 * Fall 2015: Research Assistant
   * GitHub University
