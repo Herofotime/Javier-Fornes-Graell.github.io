@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Javier Fornes Graell"
 title_separator          : "-"
 name                     : &name "Javier F. Graell"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Herofotime"
+  github           : "Herofotime"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,9 +64,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
+  linkedin         : "www.linkedin.com/in/javier-fornés-graell" # Username
   instagram        : "@xaviritina" # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/javier-fornés-graell" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
